@@ -5,7 +5,7 @@ Asimple garbage collector written in **C**. It manages memory dynamically by tra
 
 ## How to Run
 
-'''bash
+```bash
 
 gcc gc.c main.c -o gc
 ./gc
